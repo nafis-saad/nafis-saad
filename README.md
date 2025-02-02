@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nafis-saad
-- 👀 I’m interested in Geospatial Information Science, Data Science  and Transportation Modelling
-- 🌱 I’m currently learning Deep Learning  and Travel Demand Modelling
+- 👀 My research domain consists Large Language Model (LLM), Geo-spatial Intelligence and Transportation Modelling
+- 🌱 I’m currently working on Computer Vision, Deep learning and Travel Demand Modelling
 - 💞️ I’m looking to collaborate on Machine learing research 
 - 📫 Reach me at : nafis_fuad@wayne.edu
 
